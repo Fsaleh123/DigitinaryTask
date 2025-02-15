@@ -1,0 +1,6 @@
+@DigitinaryTask_HostAddress = http://localhost:5058
+
+GET {{DigitinaryTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
